@@ -1,0 +1,9 @@
+1;C00001;Shameema;830805124983;0176510772;Shameema777@hotmail.com;Shameema12;customer;
+2;C00002;Eng Liling;770426121159;0177032024;EngLiling@gmail.com;Liling123;customer;
+3;C00003;Nur Nadilla;991213125056;0138814458;sufi.nathaniel@hotmail.com;Nadilla123;customer;
+4;C00004;Lun Xiau;990805123380;0154740255;lunxiau4024@gmail.com;Lunxiau123;customer;
+5;C00005;Wey Thew;981227128767;0156609119;weythew50@outlook.com;Weythew50;customer;
+6;C00006;Nur Ainul;960101126170;0154785201;ainulrusdi70@gmail.com;Ainul70;customer;
+7;C00007;Mogan Nahappan;950707121566;0170614794;mogan22@gmail.com;Mogan22;customer;
+1;A00001;John Chu;651102054877;0136551865;john@gmail.com;john1234;admin;
+2;A00002;Kunanlan;810419121735;0179328535;kunanlan@yahoo.com;Kunanlan123;admin;

@@ -1,0 +1,2 @@
+1;A00001;John Chu;651102054877;0136551865;john@gmail.com;john1234;admin;
+2;A00002;Kunanlan;810419121735;0179328535;kunanlan@yahoo.com;Kunanlan123;admin;
